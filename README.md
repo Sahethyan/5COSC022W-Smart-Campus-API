@@ -1,9 +1,11 @@
 # 5COSC022W – Smart Campus Sensor & Room Management API
 
 **Module:** Client-Server Architectures (5COSC022W)  
-**Student:** [Your Name]  
+**Student:** Sahethyan 
 **University:** University of Westminster  
 **Year:** 2025/26
+**IIT ID:** 20241923
+**UoW ID:** 2151954
 
 ---
 
