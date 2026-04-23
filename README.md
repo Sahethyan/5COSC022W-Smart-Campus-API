@@ -23,7 +23,7 @@ The API follows REST architectural principles including resource-based URIs, app
 
 | Technology | Version |
 |---|---|
-| Java | 11 |
+| Java | 21 |
 | JAX-RS (Jakarta) | 3.x |
 | Jersey (Implementation) | 3.1.10 |
 | Jackson (JSON) | via Jersey Media |
@@ -65,7 +65,7 @@ src/main/java/com/smartcampus/smartcampusapi/
 ## How to Build and Run
 
 ### Prerequisites
-- Java JDK 11 or higher installed
+- Java JDK 21 or higher installed
 - Apache Maven installed (or use NetBeans built-in Maven)
 - Apache Tomcat 10+ installed
 
