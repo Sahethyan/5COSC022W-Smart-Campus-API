@@ -72,7 +72,7 @@ src/main/java/com/smartcampus/smartcampusapi/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/[your-username]/5COSC022W-Smart-Campus-API.git
+git clone https://github.com/Sahethyan/5COSC022W-Smart-Campus-API.git
 cd 5COSC022W-Smart-Campus-API
 ```
 
